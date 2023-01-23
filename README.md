@@ -3,9 +3,13 @@ projeto desenvolvido e apresentado como trabalho de conclusão de curso em Engen
 desenvolvido na plataforma Unity 3d versão 2019.4, com o intuito de ser um jogo no auxilio do aprendizado do
 inglês em um ambiente 3d com reconhecimento de voz, com grandes inspirações em JRPGS
 
+para jogar basta apenas baixar os arquivos e executar o arquivo voice.exe
+
 project developed and presented as a course completion work in Computer Engineering at the Federal University of Pará,
 developed on the Unity 3d platform version 2019.4, with the intention of being a game to help the learning of the
 English in a 3d environment with voice recognition, with great inspirations in JRPGS
+
+to play just download the files and run the voice.exe file
 
 <h2>Prints do jogo: <h2/>
 
